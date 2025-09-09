@@ -1,4 +1,4 @@
-#Hotel Booking Revenue Analysis | Python, EDA (Hospitality Analytics) 
+# Hotel Booking Revenue Analysis | Python, EDA (Hospitality Analytics) 
 ●  Performed exploratory data analysis (EDA) in Jupyter Notebook 
 on multi-source hotel booking datasets, uncovering causes of 
 revenue decline through trends in occupancy rates, booking 
